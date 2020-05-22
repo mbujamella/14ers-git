@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Sections" section_id="a10fddafdb301010696053184b961975" sys_domain="global" table="x_495850_needit_needit" version="3" view="View_Name">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 17:50:37</sys_created_on>
+            <sys_id>350fddafdb301010696053184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sections" display_value="Sections" name="x_495850_needit_needit" sys_domain="global" view="d3be1dafdb301010696053184b96194f">a10fddafdb301010696053184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 17:50:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 17:50:37</sys_created_on>
+            <sys_id>b50fddafdb301010696053184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sections" display_value="Sections" name="x_495850_needit_needit" sys_domain="global" view="d3be1dafdb301010696053184b96194f">a10fddafdb301010696053184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 17:50:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 17:50:37</sys_created_on>
+            <sys_id>390fddafdb301010696053184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sections" display_value="Sections" name="x_495850_needit_needit" sys_domain="global" view="d3be1dafdb301010696053184b96194f">a10fddafdb301010696053184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 17:50:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_field_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 17:50:37</sys_created_on>
+            <sys_id>b90fddafdb301010696053184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sections" display_value="Sections" name="x_495850_needit_needit" sys_domain="global" view="d3be1dafdb301010696053184b96194f">a10fddafdb301010696053184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 17:50:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Sections</caption>
+            <header>false</header>
+            <name>x_495850_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 17:50:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a10fddafdb301010696053184b961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sections</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt " source="x_495850_needit">cb67a6d7dbbc1010696053184b9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt ">cb67a6d7dbbc1010696053184b9619fb</sys_scope>
+            <sys_update_name>sys_ui_section_a10fddafdb301010696053184b961975</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 17:50:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="View Name" name="View_Name">d3be1dafdb301010696053184b96194f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
